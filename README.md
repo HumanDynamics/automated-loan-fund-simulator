@@ -1,3 +1,8 @@
+*This is part of the law.MIT.edu "automated loan fund" blockchain and analytics open source research project
+
+
+----
+
 # react-server-examples/hello-world
 
 Very simple example project for `react-server` which only shows server rendering
